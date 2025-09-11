@@ -31,7 +31,6 @@ Here are some of the key questions explored and the results found in this projec
       Tire Rotation              299.938745
       Oil Change                 299.064409
    
-
 4. **What is the most common types of vehicle issues?**
    Most common vehicles issues are:
    Maintenance_Type
