@@ -6,7 +6,7 @@ The dataset contains logistics and maintenance information, including vehicle ID
 
 The purpose of this project is to analyze logistics performance and identify patterns that can help predict when maintenance is required, which is crucial in reducing downtime and optimizing operational efficiency.
 
-* Software Demo Video 👉 [here](http://youtube.link.goes.here)
+* [Software Demo Video](http://youtube.link.goes.here)
 
 ---
 
@@ -22,7 +22,7 @@ Here are some of the key questions explored and the results found in this projec
       Ford F-150	                45917 
       Chevy Silverado	          27711 
       Tesla Semi	                9284 
-      Volvo FH	                   9088 
+      Volvo FH	                 9088 
 
 3. **What is the average maintenance cost by maintenance type?**  
       Average Maintenance Cost by Type are: 
