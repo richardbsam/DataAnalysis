@@ -18,11 +18,7 @@ Here are some of the key questions explored and the results found in this projec
       Vehicle that require maintenance the most is Van with maintenanc count of 50850
 
 2. **Which vehicle make required the most maintenance?**  
-      The vehicle makes are as follows:
-      Ford F-150	                45917 
-      Chevy Silverado	          27711 
-      Tesla Semi	                9284 
-      Volvo FH	                 9088 
+      The vehicle makes are in the following order: Ford F-150, Chevy Silverado, Tesla Semi, and Volvo FH
 
 3. **What is the average maintenance cost by maintenance type?**  
       Average Maintenance Cost by Type are: 
