@@ -6,7 +6,7 @@ The dataset contains logistics and maintenance information, including vehicle ID
 
 The purpose of this project is to analyze logistics performance and identify patterns that can help predict when maintenance is required, which is crucial in reducing downtime and optimizing operational efficiency.
 
-* [Software Demo Video](http://youtube.link.goes.here)
+* [Software Demo Video](https://youtu.be/tZF1sBnFfhg)
 
 ---
 
