@@ -18,21 +18,30 @@ Here are some of the key questions explored and the results found in this projec
 
       Vehicle that require maintenance the most is Van with maintenanc count of 50850
 
-2. **Which vehicle make required the most maintenance?**  
-      The vehicle makes that required the most maintenance as follow: 1. Ford F-150, 2. Chevy Silverado, 3. Tesla Semi, and 4. Volvo FH
+2. **Which vehicle make required the most maintenance?**
+
+      The vehicle makes that required the most maintenance as follow: 
+      
+      1. Ford F-150
+      2. Chevy Silverado
+      3. Tesla Semi
+      4. Volvo FH
 
 3. **What is the average maintenance cost by maintenance type?**  
-      Average Maintenance Cost by Type are: 
-      Maintenance_Type
-      Engine Overhaul            4005.358675
-      Tire Rotation              299.938745
-      Oil Change                 299.064409
+
+      Average Maintenance Cost by maintenance type are: 
+      
+      1. Engine Overhaul            4005.358675
+      2. Tire Rotation              299.938745
+      3. Oil Change                 299.064409
    
 4. **What is the most common types of vehicle issues?**
-   The most common vehicles issues are: 1. Oil Change, 2. Tire Rotation, and 3. Engine Overhaul
+
+      The most common vehicles issues are: 1. Oil Change, 2. Tire Rotation, and 3. Engine Overhaul
    
 5. **Does higher usage hours increase likelihood of requiring maintenance?**
-   Yes, high usage hour increase likelihood of maintenance required
+
+      Yes, high usage hour increase likelihood of maintenance required
 
 ---
 
