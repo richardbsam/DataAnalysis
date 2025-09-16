@@ -37,7 +37,11 @@ Here are some of the key questions explored and the results found in this projec
    
 4. **What is the most common types of vehicle issues?**
 
-      The most common vehicles issues are: 1. Oil Change, 2. Tire Rotation, and 3. Engine Overhaul
+      The most common types of vehicle issues are: 
+      
+      1. Oil Change
+      2. Tire Rotation 
+      3. Engine Overhaul
    
 5. **Does higher usage hours increase likelihood of requiring maintenance?**
 
