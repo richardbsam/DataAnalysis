@@ -14,7 +14,8 @@ The purpose of this project is to analyze logistics performance and identify pat
 
 Here are some of the key questions explored and the results found in this project:
 
-1. **Which vehicle types require maintenance most frequently?**  
+1. **Which vehicle types require maintenance most frequently?** 
+
       Vehicle that require maintenance the most is Van with maintenanc count of 50850
 
 2. **Which vehicle make required the most maintenance?**  
