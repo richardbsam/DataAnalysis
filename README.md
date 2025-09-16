@@ -2,7 +2,7 @@
 
 This project is focused on applying **data analysis techniques** using Python and Pandas to better understand logistics operations and predictive maintenance. As a software engineer in training, my goal is to strengthen my skills in **data wrangling, exploratory data analysis, and documentation** while working with a real-world dataset.
 
-The dataset contains logistics and maintenance information, including vehicle IDs, maintenance requirements, and operational data. It was obtained from [Kaggle’s Logistics and Maintenance Dataset](https://www.kaggle.com/) (replace with the exact dataset link you used).  
+The dataset contains logistics and maintenance information, including vehicle IDs, maintenance requirements, and operational data. It was obtained from [Kaggle’s Logistics and Maintenance Dataset](https://www.kaggle.com/).  
 
 The purpose of this project is to analyze logistics performance and identify patterns that can help predict when maintenance is required, which is crucial in reducing downtime and optimizing operational efficiency.
 
